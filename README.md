@@ -1,4 +1,4 @@
-# Sticker Sales Forecasting - Kaggle 2025 Playground
+# Sticker Sales Forecasting - Kaggle 2025 Playground 🎯
 
 ## Overview  
 
